@@ -11,13 +11,9 @@
 		    <string>/usr/local/bin/python3.7</string>
 			<string>/Users/zackamiton/Code/PythonNonsense/MoniTorrent/monitor.py</string>
 		</array>
-		<key>StandardOutPath</key>
-		<string>/Users/zackamiton/Code/PythonNonsense/MoniTorrent/logfiles/monitorrent.log</string>
-		<key>StandardErrorPath</key>
-    	<string>/Users/zackamiton/Code/PythonNonsense/MoniTorrent/logfiles/monitorrent.err</string>
         <key>WatchPaths</key>
         <array>
-            <string>/Users/zackamiton/Documents/Torrents/SoulSeek Downloads</string>
+            <string>/Users/zackamiton/Torrents/SoulSeek Downloads</string>
         </array>
 	</dict>
 </plist>

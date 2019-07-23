@@ -8,10 +8,6 @@
 		<string>/Users/zackamiton/Code/Wikipedaily/main.py</string>
 		<key>StartInterval</key>
 		<integer>86400</integer>
-		<key>StandardOutPath</key>
-		<string>/Users/zackamiton/Code/Wikipedaily/logfiles/wikipedaily.log</string>
-		<key>StandardErrorPath</key>
-    	<string>/Users/zackamiton/Code/Wikipedaily/logfiles/wikipedaily.err</string>
 		<key>WorkingDirectory</key>
 		<string>/Users/zackamiton/Code/Wikipedaily/</string>		
 	</dict>
