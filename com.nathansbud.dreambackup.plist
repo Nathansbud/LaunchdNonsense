@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>Label</key>
+		<string>com.nathansbud.dreambackup</string>
+		<key>Program</key>
+		<string>/Users/zackamiton/Code/PythonNonsense/DreamBackup/backup.py</string>
+		<key>ProgramArguments</key>
+		<array>
+		    <string>/usr/local/bin/python3.7</string>
+			<string>/Users/zackamiton/Code/PythonNonsense/DreamBackup/backup.py</string>
+		</array>
+        <key>WatchPaths</key>
+        <array>
+            <string>/Users/zackamiton/Library/Containers/com.apple.Notes/Data/Library/Preferences</string>
+        </array>
+	</dict>
+</plist>
+
