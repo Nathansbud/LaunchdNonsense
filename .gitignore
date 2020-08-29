@@ -6,3 +6,5 @@ com.google.keystone.xpcservice.plist
 com.valvesoftware.steamclean.plist
 
 com.jetbrains.AppCode.BridgeService.plist
+
+homebrew.mxcl.mongodb-community.plist
