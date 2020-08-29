@@ -5,11 +5,11 @@
 		<key>Label</key>
 		<string>com.nathansbud.tunelogger</string>
 		<key>Program</key>
-		<string>/Users/zackamiton/Code/TuneParser/logger.py</string>
+		<string>/Users/zackamiton/Code/TuningFork/logger.py</string>
 		<key>ProgramArguments</key>
 		<array>
 		    <string>/usr/local/bin/python3.7</string>
-			<string>/Users/zackamiton/Code/TuneParser/logger.py</string>
+			<string>/Users/zackamiton/Code/TuningFork/logger.py</string>
 		</array>
         <key>WatchPaths</key>
         <array>
