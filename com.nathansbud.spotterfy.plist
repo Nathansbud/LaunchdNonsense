@@ -9,7 +9,13 @@
 		    <string>/usr/bin/osascript</string>
 			<string>/Users/zackamiton/Code/TuningFork/spotterfy.applescript</string>
 		</array>
+		<key>StandardErrorPath</key>
+    	<string>/tmp/com.nathansbud.spotterfy.err</string>
+    	<key>StandardOutPath</key>
+    	<string>/tmp/com.nathansbud.spotterfy.out</string>
 		<key>RunAtLoad</key>
+		<true/>
+		<key>KeepAlive</key>
 		<true/>
 	</dict>
 </plist>
