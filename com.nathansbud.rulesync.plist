@@ -16,5 +16,7 @@
         <array>
             <string>/Users/zackamiton/Code/TuningFork/resources/turntable.json</string>
         </array>
+        <key>Disabled</key>
+        <true/>
 	</dict>
 </plist>

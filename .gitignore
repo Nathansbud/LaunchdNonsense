@@ -1,10 +1,7 @@
-
+com.adobe.GC.Invoker-1.0.plist
+com.google.GoogleUpdater.wake.plist
 com.google.keystone.agent.plist
-
 com.google.keystone.xpcservice.plist
-
-com.valvesoftware.steamclean.plist
-
 com.jetbrains.AppCode.BridgeService.plist
-
+com.valvesoftware.steamclean.plist
 homebrew.mxcl.mongodb-community.plist

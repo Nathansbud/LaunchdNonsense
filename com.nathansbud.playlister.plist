@@ -3,23 +3,20 @@
 <plist version="1.0">
 	<dict>
 		<key>Label</key>
-		<string>com.nathansbud.leaderbored</string>
+		<string>com.nathansbud.playlister</string>
 		<key>ProgramArguments</key>
 		<array>
-		    <string>/Users/zackamiton/Code/Leaderbored/venv/bin/python</string>
-			<string>/Users/zackamiton/Code/Leaderbored/update.py</string>
+			<string>/Users/zackamiton/Code/TuningFork/venv/bin/python3</string>
+			<string>/Users/zackamiton/Code/TuningFork/playlister.py</string>
 		</array>
 		<key>StandardErrorPath</key>
-    	<string>/tmp/com.nathansbud.leaderbored.err</string>
+    	<string>/tmp/com.nathansbud.playlister.err</string>
     	<key>StandardOutPath</key>
-    	<string>/tmp/com.nathansbud.leaderbored.out</string>
+    	<string>/tmp/com.nathansbud.playlister.out</string>
 		<key>RunAtLoad</key>
 		<true/>
 		<key>StartInterval</key>
     	<integer>3600</integer>
-    	<key>Disabled</key>
-    	<true/>
-
 	</dict>
 </plist>
 

@@ -6,6 +6,7 @@
 		<string>com.nathansbud.pyzant</string>
 		<key>ProgramArguments</key>
 		<array>
+			<string>/Users/zackamiton/Code/Pyzant/venv/bin/python3</string>
 			<string>/Users/zackamiton/Code/Pyzant/replybot.py</string>
 		</array>
 		<key>StandardErrorPath</key>
@@ -16,6 +17,8 @@
 		<true/>
 		<key>StartInterval</key>
     	<integer>1800</integer>
+    	<key>Disabled</key>
+    	<true/>
 	</dict>
 </plist>
 
